@@ -1,1 +1,1 @@
-git is a distribute system
+git is a powerful distribute system
